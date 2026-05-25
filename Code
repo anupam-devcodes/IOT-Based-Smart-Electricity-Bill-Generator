@@ -2,7 +2,7 @@
 #define BLYNK_TEMPLATE_NAME "smart electricity billing" 
 #define BLYNK_AUTH_TOKEN "IvW5lNX9V7r6wRlHkABgY4vfyYWwW-CR" 
 char ssid[] = "iPhone Xr"; 
-char pass[] = "Anupam123"; 
+char pass[] = "##**Anupam**##"; 
 #include <WiFi.h> 
 #include <BlynkSimpleEsp32.h> 
 #include <EmonLib.h> 
